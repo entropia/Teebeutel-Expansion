@@ -24,6 +24,7 @@ These Expansion Boards have been published:
 === Publishing your Expansion Board
 
 If you want to publish your Expansions please keep this in mind:
+
 - Please remember to publish your Expansion under an OSHW-License!
   We want to keep the Teebeutle and it's expansions accsassible for everyone.
 
