@@ -8,6 +8,8 @@ You have an I²C-Interface, WS2812-Interface, Serial-Interface and 9 GPIO pins a
 
 With the Stripboard version you can quickly prototype new accessories with conventional  through-hole parts. You can also utilize some SMD components using the SMD-Pads at the top of the board.
 
+image::render.png[A KiCad render of the stripbaord expansion, 500]
+
 == Blank
 
 The Blank version can be used as a template the design of your own custom Expansion-PCBs.
